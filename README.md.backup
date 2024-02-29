@@ -32,4 +32,4 @@ will become
 [Contents of myInt[0]](#contents-of-myInt0)
 ```
 
-Note that you can replace `Contents of myInt[0]` with any other link name you fancy, and it will still point to `### Contents of myInt[0]`.
+Note that you can replace `Contents of myInt[0]` with any other link name you fancy,
