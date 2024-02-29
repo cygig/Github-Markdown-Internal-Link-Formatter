@@ -2,6 +2,8 @@
  
 Github is able to generate anchors from headings, but the generated anchor names may not be intuitive to write out. Hence this program will help format the heading into a clickable link.
 
+I will be releasing it as a Windows console program.
+
 The anchor name will derived from a transformed heading name, with the transformations being:
 - Upper case letters will become lower case.
 - Numbers remain untouched.
